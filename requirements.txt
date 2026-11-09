@@ -1,0 +1,7 @@
+prefect>=3.0.0
+crewai[litellm]>=1.15.0
+crewai-tools>=1.15.0
+tavily-python>=0.8.5
+pandantic>=2.0.0
+pandas
+requests
